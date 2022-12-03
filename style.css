@@ -1,1 +1,15 @@
+table {
+    background: rgb(242, 197, 247);
+}
 
+thead{
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+td, th{
+    border: 1px solid #000000;
+    border-color: lavender;
+
+} 
+td, tr  
